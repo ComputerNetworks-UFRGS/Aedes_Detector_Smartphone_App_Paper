@@ -2,7 +2,7 @@
 
 ## Disclaimer
 
-This is the repository for the paper "Acoustic Identification of Ae. aegypti Mosquitoes using Smartphone Apps and Residual Convolutional Neural Networks" (https://arxiv.org/abs/2306.10091). Kindly note that this paper is currently under review. This repo will be updated as soon as the review process is completed.
+This is the repository for the paper "Acoustic Identification of Ae. aegypti Mosquitoes using Smartphone Apps and Residual Convolutional Neural Networks" (https://arxiv.org/abs/2306.10091). Kindly note that this paper is currently under submission for peer review. This repo will be updated as soon as the review process is completed.
 
 ## Paper Details
 
